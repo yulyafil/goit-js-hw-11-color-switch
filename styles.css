@@ -1,0 +1,9 @@
+button {
+  padding: 30px 50px;
+  font-size: 40px;
+  margin: 15px;
+}
+.btn {
+  display: flex;
+  justify-content: center;
+}
